@@ -1,4 +1,3 @@
-# discordbot sample made by STTARBUCKSU, Reserved by sttartbucksu.
 const discord = require("discord.js");
 const client = new discord.Client();
 
